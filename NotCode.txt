@@ -1,0 +1,13 @@
+# This is just a text file I'm using to explore colabrative aspects of 
+# GITHUB, e.g. check in/check out/branching/merging etc
+#
+# No need to code anything, just change these comments, nice and 
+# simple!
+#
+# Modification History 
+# ====================
+# When       Who                           Why
+# ========== ============================= ============================
+# 08/04/2021 Dave Hol'                     Initial Version
+#
+#
